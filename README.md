@@ -1,4 +1,7 @@
-# Experiment--05-Implementation-of-flipflops-using-verilog
+### Name: Mohanram Gunasekar 
+### Registration No: 23006082
+
+# Experiment- 05 Implementation of flipflops using verilog
 ### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
@@ -107,22 +110,45 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 
 ### PROGRAM 
-/*
-Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
 
 
 
+SR:
 
+![sr code](https://github.com/Anas536/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841834/6b31fdb5-0279-43f4-a13c-d16d6d69bcb6)
+
+JK:
+
+![jk code](https://github.com/Anas536/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841834/cf7aee1a-4df2-4819-8839-afa4c187112a)
+
+T:
+
+![t code](https://github.com/Anas536/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841834/14b1c901-c4e8-4ab0-8be2-b116fde46f21)
+
+D: 
+
+![d code](https://github.com/Anas536/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841834/d7c0230c-cf04-4e57-ac83-530b661ad492)
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+SR: 
+
+![image](https://github.com/Anas536/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841834/3840b72c-9251-4392-8f45-bb347ddb887a)
+
+JK:
+
+![image](https://github.com/Anas536/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841834/787b9275-fdfe-4cdd-8dbd-2556773ebaaf)
+
+T:
+
+![image](https://github.com/Anas536/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841834/671acc8e-2238-4603-aea7-4af68090920e)
 
 
 
+D:
+
+![image](https://github.com/Anas536/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841834/07faf1c6-2e34-4b31-90f2-c701d555783f)
 
 
 
@@ -130,11 +156,25 @@ RegisterNumber:
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
+SR:
+
+![image](https://github.com/Anas536/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841834/e55f3dc2-d415-483e-8a0a-491c194a320a)
 
 
+JK:
+
+![image](https://github.com/Anas536/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841834/d62d8473-e1bb-422f-b325-59275af38a86)
+
+T:
+
+![image](https://github.com/Anas536/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841834/c819ea56-cc9b-4f56-879b-e7221e606848)
 
 
+D:
 
+![image](https://github.com/Anas536/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841834/ed45e5af-49e9-49f4-b613-58b9d6280243)
 
 
 ### RESULTS 
+
+To design all the flipflops using verilog and validating their functionality using their functional tables.
